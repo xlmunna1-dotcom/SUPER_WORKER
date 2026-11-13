@@ -1,3 +1,6 @@
 pyTelegramBotAPI
-requests
 flask
+requests
+phonenumbers
+pycountry
+urllib3
